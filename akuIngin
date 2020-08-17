@@ -7,25 +7,29 @@
 
 'HTML
 
-<p>
+<p1>
+  <ul>
 Aku ingin mencintaimu dengan sederhana
 <br>
 &nbsp; &nbsp;
-dengan kata yang tak sempat diucapkan kayu
+dengan kata yang tak sempat diucapkan <b><em>kayu</b></em>
 <br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-kepada api yang menjadikannya abu<br>
+    kepada <b><em>api</em></b> yang menjadikannya <b><em>abu</em></b>
+    <br>
 <br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <br>
 Aku ingin mencintaimu dengan sederhana
 <br>
 &nbsp; &nbsp;
-dengan isyarat yang tak sempat disampaikan awan
+    dengan isyarat yang tak sempat disampaikan <b><em>awan</em></b>
 <br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-kepada hujan yang menjadikannya tiada<br>
-</p>
+kepada <b><em>hujan</em></b> yang menjadikannya <b><em>tiada</b></em><br>
+  </ul>
+</p1>
+  
 
 
 
